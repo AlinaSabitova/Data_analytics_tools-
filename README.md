@@ -1,7 +1,7 @@
 # Data_analytics_tools-
 # Инструменты аналитика данных для решения прикладных задач.
 
-# Курс python-data-analysis-tools.
+Курс python-data-analysis-tools.
 
 [1. Numpy.]()
 
