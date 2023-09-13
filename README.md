@@ -3,7 +3,7 @@
 
 Курс python-data-analysis-tools.
 
-[1. Numpy.]()
+[1. Numpy.](/Дз1_Numpy.ipynb)
 
 [2. Pandas.]()
 
